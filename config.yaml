@@ -1,0 +1,31 @@
+groups:
+- items:
+  - item_id: 95673
+    quantity: 1
+  - item_id: 95663
+    quantity: 1
+  - item_id: 96943
+    quantity: 1
+  - item_id: 97690
+    quantity: 1
+  - item_id: 96762
+    quantity: 1
+  - item_id: 97075
+    quantity: 1
+  name: Fish Fillets
+  type: simple
+- items:
+  - item_id: 95673
+    quantity: 1
+  - item_id: 95663
+    quantity: 5
+  - item_id: 96943
+    quantity: 5
+  - item_id: 97690
+    quantity: 5
+  - item_id: 96762
+    quantity: 5
+  - item_id: 97075
+    quantity: 1
+  name: Fish Fillet Promotion
+  type: promotion
